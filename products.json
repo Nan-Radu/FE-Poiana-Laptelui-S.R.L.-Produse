@@ -1,51 +1,99 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/1.png"
+        "name":" Lapte proaspăt de vacă - 1L - Cod: A 01",
+        "price": 7,
+        "image": "image/LapteCutieFE.png"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
-        "image": "image/2.png"
+        "name":" Lapte proaspăt de capră - 1L - Cod: A 02",
+        "price": 7,
+        "image": "image/LapteCutieFE.png"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
-        "image": "image/3.png"
+        "name":" Chefir - 500g - Cod: A03",
+        "price": 14,
+        "image": "image/chefir_FE (2).png"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/4.png"
+        "name":" Iaurt natural lapte vacă - 350g - Cod: A04",
+        "price": 7,
+        "image": "image/iaurt.png"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
-        "image": "image/5.png"
+        "name":" Iaurt natural lapte capră - 350g - Cod: A05",
+        "price": 7,
+        "image": "image/iaurt.png"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/6.png"
+        "name":" Smântâna 20% grăsime - 900g - Cod: A 06",
+        "price": 19,
+        "image": "image/smantana_FE (2).png"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/7.png"
+        "name":" Telemea de vacă - 1kg - Cod: A07",
+        "price": 30,
+        "image": "image/telemeadevaca.png"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/8.png"
+        "name":" Telemea de capră - 1kg - Cod: A08",
+        "price": 30,
+        "image": "image/telemeadevaca.png"
+    },
+    {
+        "id": 9,
+        "name":" Telemea din lapte de oaie - 1kg - Cod: A 09",
+        "price": 30,
+        "image": "image/telemeadevaca.png"
+    },
+    {
+        "id": 10,
+        "name":" Brânză de burduf - 1kg - Cod: A 10",
+        "price": 43,
+        "image": "image/branza-de-burduf-4.jpg"
+    },
+    {
+        "id": 11,
+        "name":" Brânză de burduf in coajă de brad - 1kg - Cod: A 11 ",
+        "price": 46,
+        "image": "image/branza-de-burduf-4.jpg"
+    },
+    {
+        "id": 12,
+        "name":" Urdă din lapte de capră - 1kg - Cod: A 12",
+        "price": 25,
+        "image": "image/urda.png"
+    },
+    {
+        "id": 13,
+        "name":" Urdă din lapte de vacă - 1kg - Cod: A 13",
+        "price": 25,
+        "image": "image/urda.png"
+    },
+    {
+        "id": 14,
+        "name":" Unt - 180g - Cod: A 14 ",
+        "price": 12,
+        "image": "image/unt.png"
+    },
+    {
+        "id": 15,
+        "name":" Cas lapte vacă - 1kg - Cod: A 15",
+        "price": 28,
+        "image": "image/cas.jpeg"
+    },
+    {
+        "id": 16,
+        "name":" Cas afumat - 1kg - Cod: A16",
+        "price": 30,
+        "image": "image/cas.jpeg"
     }
 
 ]
