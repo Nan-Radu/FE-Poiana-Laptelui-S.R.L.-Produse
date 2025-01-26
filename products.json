@@ -3,55 +3,55 @@
         "id": 1,
         "name":" Lapte proaspăt de vacă - 1L - Cod: A 01",
         "price": 7,
-        "image": "image/LapteCutieFE.png"
+        "image": "image/LapteFE2.png"
     },
     {
         "id": 2,
         "name":" Lapte proaspăt de capră - 1L - Cod: A 02",
         "price": 7,
-        "image": "image/LapteCutieFE.png"
+        "image": "image/LapteFE2.png"
     },
     {
         "id": 3,
         "name":" Chefir - 500g - Cod: A03",
         "price": 14,
-        "image": "image/chefir_FE (2).png"
+        "image": "image/Chefir_FE.png"
     },
     {
         "id": 4,
         "name":" Iaurt natural lapte vacă - 350g - Cod: A04",
         "price": 7,
-        "image": "image/iaurt.png"
+        "image": "image/iaurtfe.png"
     },
     {
         "id": 5,
         "name":" Iaurt natural lapte capră - 350g - Cod: A05",
         "price": 7,
-        "image": "image/iaurt.png"
+        "image": "image/iaurtfe.png"
     },
     {
         "id": 6,
         "name":" Smântâna 20% grăsime - 900g - Cod: A 06",
         "price": 19,
-        "image": "image/smantana_FE (2).png"
+        "image": "image/smantanafe.png"
     },
     {
         "id": 7,
         "name":" Telemea de vacă - 1kg - Cod: A07",
         "price": 30,
-        "image": "image/telemeadevaca.png"
+        "image": "image/telemeadevacafe.png"
     },
     {
         "id": 8,
         "name":" Telemea de capră - 1kg - Cod: A08",
         "price": 30,
-        "image": "image/telemeadevaca.png"
+        "image": "image/telemeadevacafe.png"
     },
     {
         "id": 9,
         "name":" Telemea din lapte de oaie - 1kg - Cod: A 09",
         "price": 30,
-        "image": "image/telemeadevaca.png"
+        "image": "image/telemeadevacafe.png"
     },
     {
         "id": 10,
